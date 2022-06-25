@@ -15,16 +15,7 @@
   </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-  * [Usage](#usage)
-  * [Automated Test](#automated-test)
-* [Contributors](#contributors)
-* [Acknowledgements](#acknowledgements)
-* [License](#license)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
